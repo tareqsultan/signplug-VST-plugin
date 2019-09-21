@@ -1,0 +1,4 @@
+type bargraph
+frame_size 28, 60
+segment 1, 6
+segment_count 9
