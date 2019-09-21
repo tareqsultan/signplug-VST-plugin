@@ -1,0 +1,4 @@
+type animated
+frame_size 28, 28
+padding 18, 19, 18, 19
+mouse_response rotary
