@@ -1,2 +1,0 @@
-type animated
-frame_size 40, 40
