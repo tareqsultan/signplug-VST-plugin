@@ -1,0 +1,4 @@
+type animated
+frame_size 35, 76
+padding 2, 3, 24, 2
+mouse_response vertical
