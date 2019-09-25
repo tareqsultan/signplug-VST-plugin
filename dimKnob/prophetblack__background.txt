@@ -1,7 +1,0 @@
-; SynthEdit Skin Definition File
-;
-; Skin Set:	ProphetBlack
-; Skin Item:	Panel Background
-; Files:	background.png
-
-tiled true
