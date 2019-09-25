@@ -1,3 +1,0 @@
-type animated
-frame_size 160, 160
-mouse_response vertical
